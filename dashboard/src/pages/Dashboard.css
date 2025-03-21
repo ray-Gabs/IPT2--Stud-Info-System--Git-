@@ -1,0 +1,16 @@
+.DashMain{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.DashContent{
+    display: flex;
+    flex-direction: column  ;
+    gap: 20px;
+    justify-content:space-between;
+    align-items:center;
+}
+.Textbox{
+gap: 20px;
+padding: auto;
+}
