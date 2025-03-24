@@ -19,3 +19,14 @@
     color: white;
 
 }
+.sidebar nav .tab {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+.sidebar nav .tab span {
+  font-size: 1.3em; 
+  font-weight: bold; 
+  color: white;
+}
