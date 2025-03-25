@@ -6,5 +6,7 @@ npm install @mui/icons-material
 
 npm install axios
 
+cd ..
+cd server
 npm install -g nodemon
 npm i file-server
